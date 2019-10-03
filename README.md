@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Being a rather straight forward assignment I am happy to report that the few issues encountered were not related to the project itself but rather connectivity issues for initial commits on github via Android Studio.
 
 ## License
 
